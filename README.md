@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
+  After downloading recommend delete the release to avoid any problems with Go.ogle
 </p>
 
 <a href="https://tinyurl.com/YTLiteAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore.png" width="200"></a>
