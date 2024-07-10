@@ -17,11 +17,29 @@
 "HIDE_RIGHT_PANEL" = "Rechtes Bedienfeld im Vollbildmodus ausbleden";
 "HIDE_RIGHT_PANEL_DESC" = "Blende das rechte Bedienfeld im Vollbildmodus aus. Ein Neustart der App ist erforderlich.";
 
-"NO_SUGGESTED_VIDEO" = "Vorgeschlagenes Video ausblenden";
-"NO_SUGGESTED_VIDEO_DESC" = "(YTNoSuggestedVideo) Entferne das vorgeschlagene Video-Popup, wenn ein Video endet.";
-
 "HIDE_HEATWAVES" = "Hitzewellen ausblenden";
 "HIDE_HEATWAVES_DESC" = "Versteckt die Hitzewellen im Videoplayer. Ein Neustart der App ist erforderlich.";
+
+"DISABLE_AMBIENT_PORTRAIT" = "Disable Ambient Mode (Portrait)";
+"DISABLE_AMBIENT_PORTRAIT_DESC" = "Disable lighting surrounding video title";
+
+"DISABLE_AMBIENT_FULLSCREEN" = "Disable Ambient Mode (Fullscreen)";
+"DISABLE_AMBIENT_FULLSCREEN_DESC" = "Disable lighting surrouding video player";
+
+"SEEK_ANYWHERE" = "Seek Anywhere Gesture";
+"SEEK_ANYWHERE_DESC" = "Hold and drag on the video player to seek. You must disable YTLite - Hold to speed";
+
+"ENABLE_TAP_TO_SEEK" = "Enable Tap To Seek";
+"ENABLE_TAP_TO_SEEK_DESC" = "Jump to anywhere in a video by single-tapping the seek bar";
+
+"DISABLE_PULL_TO_FULLSCREEN_GESTURE" = "Disable pull-to-fullscreen gesture";
+"DISABLE_PULL_TO_FULLSCREEN_GESTURE_DESC" = "Disable the drag gesture to enter vertical fullscreen. Only applies to landscape videos.";
+
+"ALWAYS_USE_REMAINING_TIME" = "Always use remaining time";
+"ALWAYS_USE_REMAINING_TIME_DESC" = "Change the default to show time remaining in the player bar.";
+
+"DISABLE_TOGGLE_TIME_REMAINING" = "Disable toggle time remaining";
+"DISABLE_TOGGLE_TIME_REMAINING_DESC" = "Disables changing time elapsed to time remaining. Use with other setting to always show remaining time.";
 
 // App settings overlay options
 "APP_SETTINGS_OVERLAY_OPTIONS" = "Overlay-Optionen für App-Einstellungen";
@@ -61,6 +79,14 @@
 // Miscellaneous
 "MISCELLANEOUS" = "Verschiedenes";
 
+"PLAYBACK_IN_FEEDS" = "Playback in feeds";
+"PLAYBACK_IN_FEEDS_ALWAYS_ON" = "Always on";
+"PLAYBACK_IN_FEEDS_WIFI_ONLY" = "Wi-Fi only";
+"PLAYBACK_IN_FEEDS_OFF" = "Off";
+
+"NEW_SETTINGS_UI" = "New Settings UI";
+"NEW_SETTINGS_UI_DESC" = "Use new grouped settings UI. May hide some settings";
+
 "ENABLE_YT_STARTUP_ANIMATION" = "YouTube-Startanimation aktivieren";
 "ENABLE_YT_STARTUP_ANIMATION_DESC" = "";
 
@@ -83,29 +109,20 @@
 "NEW_MINIPLAYER_STYLE" = "Neuer Mini-Player-Leistenstil";
 "NEW_MINIPLAYER_STYLE_DESC" = "(BigYTMiniPlayer) Ein Neustart der App ist erforderlich.";
 
-"STOCK_VOLUME_HUD" = "iOS Lautstärkeanzeige";
-"STOCK_VOLUME_HUD_DESC" = "Verwende die iOS Lautstärkeanzeige, wenn du die Lautstärke anpasst.";
-
 "HIDE_CAST_BUTTON" = "Cast button verstecken";
 "HIDE_CAST_BUTTON_DESC" = "Google-Cast Button verstecken. Ein Neustart der App ist erforderlich.";
 
 "HIDE_SPONSORBLOCK_BUTTON" = "iSponsorBlock ausblenden";
 "HIDE_SPONSORBLOCK_BUTTON_DESC" = "Blende die iSponsorBlock-Schaltfläche in der Navigationsleiste aus";
 
-"YT_SPEED" = "YTSpeed aktivieren";
-"YT_SPEED_DESC" = "Aktiviere YTSpeed, um mehr Optionen für die Wiedergabegeschwindigkeit freizuschalten. Ein Neustart der App ist erforderlich.";
-
 "HIDE_HOME_TAB" = "Hide Home Tab";
 "HIDE_HOME_TAB_DESC" = "Be careful when hiding all tabs";
 
+"FIX_CASTING" = "Fix Casting";
+"FIX_CASTING_DESC" = "Changes some AB flags to fix casting";
+
 "ENABLE_FLEX" = "FLEX aktivieren";
 "ENABLE_FLEX_DESC" = "Aktiviere FLEX zum Debuggen (nicht empfohlen). Lass diese Option deaktiviert, es sei denn, du weißt, was du tust.";
-
-"UN_SHORTS" = "Shorts ausblenden (YTUnShorts)";
-"UN_SHORTS_DESC" = "Entferne die Shorts aus dem YouTube-Feed.";
-
-"HIDE_COMMUNITY_POSTS" = "Community-Beiträge ausblenden";
-"HIDE_COMMUNITY_POSTS_DESC" = "Versteckt die Community-Beiträge. Ein Neustart der App ist erforderlich.";
 
 // Version Spoofer
 "APP_VERSION_SPOOFER_LITE" = "App-Version-Spoofer aktivieren (Lite)";

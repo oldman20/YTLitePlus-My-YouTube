@@ -14,9 +14,6 @@
 "YT_MINIPLAYER" = "Bật trình phát mini cho tất cả các video trên YouTube";
 "YT_MINIPLAYER_DESC" = "Ví dụ: video dành cho trẻ em";
 
-"STOCK_VOLUME_HUD" = "Use iOS stock volume HUD";
-"STOCK_VOLUME_HUD_DESC" = "";
-
 // Video controls overlay options
 "VIDEO_CONTROLS_OVERLAY_OPTIONS" = "Tùy chọn lớp phủ điều khiển video";
 
@@ -29,11 +26,29 @@
 "DONT_EAT_MY_CONTENT" = "Ngăn Notch/Đảo trên nội dung video 2:1 (DontEatMyContent)";
 "DONT_EAT_MY_CONTENT_DESC" = "Ngăn notch/Dynamic Island nghiền ngẫm nội dung video 2:1 trên YouTube. Khởi động lại ứng dụng là bắt buộc.";
 
-"NO_SUGGESTED_VIDEO" = "Hide Suggested Video (YTNoSuggestedVideo)";
-"NO_SUGGESTED_VIDEO_DESC" = "Remove the suggested video popup when finishing a video";
-
 "HIDE_HEATWAVES" = "Ẩn sóng nhiệt";
 "HIDE_HEATWAVES_DESC" = "Ẩn Sóng nhiệt trong trình phát video. Khởi động lại ứng dụng là bắt buộc.";
+
+"DISABLE_AMBIENT_PORTRAIT" = "Disable Ambient Mode (Portrait)";
+"DISABLE_AMBIENT_PORTRAIT_DESC" = "Disable lighting surrounding video title";
+
+"DISABLE_AMBIENT_FULLSCREEN" = "Disable Ambient Mode (Fullscreen)";
+"DISABLE_AMBIENT_FULLSCREEN_DESC" = "Disable lighting surrouding video player";
+
+"SEEK_ANYWHERE" = "Seek Anywhere Gesture";
+"SEEK_ANYWHERE_DESC" = "Hold and drag on the video player to seek. You must disable YTLite - Hold to speed";
+
+"ENABLE_TAP_TO_SEEK" = "Enable Tap To Seek";
+"ENABLE_TAP_TO_SEEK_DESC" = "Jump to anywhere in a video by single-tapping the seek bar";
+
+"DISABLE_PULL_TO_FULLSCREEN_GESTURE" = "Disable pull-to-fullscreen gesture";
+"DISABLE_PULL_TO_FULLSCREEN_GESTURE_DESC" = "Disable the drag gesture to enter vertical fullscreen. Only applies to landscape videos.";
+
+"ALWAYS_USE_REMAINING_TIME" = "Always use remaining time";
+"ALWAYS_USE_REMAINING_TIME_DESC" = "Change the default to show time remaining in the player bar.";
+
+"DISABLE_TOGGLE_TIME_REMAINING" = "Disable toggle time remaining";
+"DISABLE_TOGGLE_TIME_REMAINING_DESC" = "Disables changing time elapsed to time remaining. Use with other setting to always show remaining time.";
 
 // Shorts controls overlay options
 "SHORTS_CONTROLS_OVERLAY_OPTIONS" = "Tùy chọn lớp phủ điều khiển quần short";
@@ -132,12 +147,6 @@
 
 "ENABLE_FLEX" = "Kích hoạt FLEX";
 "ENABLE_FLEX_DESC" = "Bật FLEX để gỡ lỗi (không khuyến nghị). Bỏ qua điều này trừ khi bạn biết những gì bạn đang làm.";
-
-"UN_SHORTS" = "Hide Shorts (YTUnShorts)";
-"UN_SHORTS_DESC" = "Remove Shorts from YouTube feed.";
-
-"HIDE_COMMUNITY_POSTS" = "Hide community posts";
-"HIDE_COMMUNITY_POSTS_DESC" = "Hides the Community Posts. App restart is required.";
 
 "FIX_GOOGLE_SIGNIN" = "Sửa lỗi Đăng nhập bằng Google (chỉ dành cho người dùng TrollStore)";
 "FIX_GOOGLE_SIGNIN_DESC" = "Chỉ bật tùy chọn này khi bạn không thể đăng nhập bằng tài khoản Google của mình và ứng dụng đã được cài đặt qua TrollStore. Nếu bạn có thể đăng nhập bình thường, hãy tắt nó đi. Khởi động lại ứng dụng là bắt buộc.";
