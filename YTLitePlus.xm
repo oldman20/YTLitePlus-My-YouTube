@@ -631,9 +631,9 @@ BOOL isTabSelected = NO;
 // Miscellaneous
 %group giPadLayout // https://github.com/LillieH001/YouTube-Reborn
 %hook UIDevice
-- (long long)userInterfaceIdiom {
-    return YES;
-} 
+- (UIUserInterfaceIdiom)userInterfaceIdiom {
+    return UIUserInterfaceIdiomPad;
+}
 %end
 %hook UIStatusBarStyleAttributes
 - (long long)idiom {
