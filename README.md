@@ -3,11 +3,23 @@
 
  * Others:
 
+https://filebin.net/1hgwqh76zd53plt8 23/09 Expire
+
+YT 19.36.1
+
+TM 7.18.3
+
+https://armconverter.com/decryptedappstore/us/youtube
+
+https://decrypt.day
+                                                                                                                                                                                                                                                                                                                                                                                 
 https://github.com/dayanch96/YTLite 5.0.2
 
 https://github.com/thaibm92/YouPiP 1.8.14
 
 https://github.com/34306/Patched-TS-App 1.0
+
+C:\Users\Admin\AppData\Local\Sideloadly\materials
 
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
