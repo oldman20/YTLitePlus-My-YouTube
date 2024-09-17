@@ -3,8 +3,10 @@
 
  * Others:
 
-https://github.com/dayanch96/YTLite 4.0.1
+https://github.com/dayanch96/YTLite 5.0.2
+
 https://github.com/thaibm92/YouPiP 1.8.14
+
 https://github.com/34306/Patched-TS-App 1.0
 
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
