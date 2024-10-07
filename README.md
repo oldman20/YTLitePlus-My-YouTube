@@ -3,11 +3,11 @@
 
  * Others:
 
-https://filebin.net/4eknj0092bvlgfu4 02/10 Expire
+https://filebin.net/xoinqzw3qdaw0mrr 13/10 Expire
 
-YT 19.37.2
+YT 19.39.1
 
-TM 7.20.1
+TM 7.21.1
 
 https://armconverter.com/decryptedappstore/us/youtube
 
